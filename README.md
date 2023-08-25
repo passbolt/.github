@@ -21,8 +21,8 @@ Passbolt's security model supports user-owned secret keys and end-to-end encrypt
 # Tour
 If you're new here, it may take some time to find your way around the repositories. So, here's a quick tour: 
 
-- [passbolt_API](https://github.com/passbolt/passbolt_api): The passbolt CE backend, a JSON API written with CakePHP.
-- [passbolt_browser_extension](https://github.com/passbolt/passbolt_browser_extension): The passbolt browser extensions developed for Chrome & Firefox.
+- [passbolt_api](https://github.com/passbolt/passbolt_api): The passbolt CE backend, a JSON API written with CakePHP.
+- [passbolt_browser_extension](https://github.com/passbolt/passbolt_browser_extension): The passbolt browser extensions developed for Edge, Chrome, & Firefox.
 - [passbolt_cli](https://github.com/passbolt/passbolt_cli): A command line interface for the passbolt API.
 - [passbolt_docker](https://github.com/passbolt/passbolt_docker): Everything you need to get started using passbolt with Docker.
 - [mobile-passbolt-android](https://github.com/passbolt/mobile-passbolt-android): The passbolt mobile app for android. 
@@ -36,11 +36,11 @@ If you're new here, it may take some time to find your way around the repositori
 Of course passbolt encourages collaboration and support in all forms. Whether you'd like to provide support with code, reviews, testing, translating, financially, or being an active member of our community it's easy to get started.  
 
 - *Contribute Code:* [Contributing.md](https://github.com/passbolt/passbolt_api/blob/master/CONTRIBUTING.md)
-- *Review Us:* Leave us a review on the app store or browser extension store. 
-- *Test New Releases:* Visit the community forum for new release canidates and test pre-alpha releases
+- *Review Us:* Leave us a review on the app store or browser extension store of your choosing. 
+- *Test New Releases:* [Visit the community forum](https://community.passbolt.com/) for new release canidates and test pre-alpha releases
 - *Help With Translating:* Help translate passbolt for globalization, [see the translator guide to get started](https://help.passbolt.com/contribute/translation).
 - *Join Our Community:* Join the [community forum](https://community.passbolt.com) to discuss feature requests, translations, development, and more. 
-- *Share The Love:* Star the Github repo and give us a shout out on social media.
+- *Share The Love:* [Star the Github repo](https://github.com/passbolt/passbolt_api) and give us a shout out on social media.
 
 <br>
 
