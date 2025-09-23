@@ -23,11 +23,10 @@ If you're new here, it may take some time to find your way around the repositori
 
 - [passbolt_api](https://github.com/passbolt/passbolt_api): The passbolt CE backend, a JSON API written with CakePHP.
 - [passbolt_browser_extension](https://github.com/passbolt/passbolt_browser_extension): The passbolt browser extensions developed for Edge, Chrome, & Firefox.
-- [passbolt_cli](https://github.com/passbolt/passbolt_cli): A command line interface for the passbolt API.
+- [go-passbolt-CLI](https://github.com/passbolt/go-passbolt-cli): A command line interface for the passbolt API.
 - [passbolt_docker](https://github.com/passbolt/passbolt_docker): Everything you need to get started using passbolt with Docker.
 - [mobile-passbolt-android](https://github.com/passbolt/mobile-passbolt-android): The passbolt mobile app for android. 
 - [mobile-passbolt-ios](https://github.com/passbolt/mobile-passbolt-ios): The passbolt mobile app for iOS. 
-- [charts-passbolt](https://github.com/passbolt/charts-passbolt): Run passbolt on Kubernetes with Helm.
 - [passbolt-windows](https://github.com/passbolt/passbolt-windows): The passbolt desktop app for Windows
 
 <br>
